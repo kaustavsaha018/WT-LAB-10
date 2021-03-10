@@ -21,5 +21,5 @@ If the number of arguments is less than four, throw the Check Argument exception
 <h3>Q7. Write a java program to create Account with 500 rupee minimum balance, deposit amount, withdraw amount 
 and also throws LessBalanceException which returns the statement that says withdraw amount is not valid.</h3>
 
-<h3>8. Write a java program to implement a stack class having methods push () and pop(). 
+<h3>Q8. Write a java program to implement a stack class having methods push () and pop(). 
 These methods must be designed to throw user defined exception when the stack is empty or full.</h3>
