@@ -1,6 +1,6 @@
 # WT-LAB-10
 <h1>Programs on Java Exception Handling</h1>
-<img src="https://miro.medium.com/max/960/1*xrEAbTL3p2q7qnzs8s0lVw.png" height="100px" width="200px">
+<img src="https://miro.medium.com/max/960/1*xrEAbTL3p2q7qnzs8s0lVw.png" height="250px" width="400px">
 <h2>Questions:-</h2>
 
 <h3>Q1. Write a Java program to generate an ArrayIndexOutofBoundsException and handle it using catch statement.</h3>
